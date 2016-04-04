@@ -4,11 +4,11 @@
 __phrase listall__
 - lists all known services
 
-__phraseadd <service> <login> <password>__
+__phraseadd $service $login $password__
 - adds new service to list.txt.asc
 
-__phraseadd <service> <login>__
+__phraseadd $service $login__
 - adds new service with freshly generated password to list.txt.asc
 
-__phrase <service>__
+__phrase $service__
 - returns login and password for this service
