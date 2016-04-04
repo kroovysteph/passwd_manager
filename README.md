@@ -1,14 +1,14 @@
 
 # List of Commands:
 
-_phrase listall_
+__phrase listall__
 - lists all known services
 
-_phraseadd <service> <login> <password>_
+__phraseadd <service> <login> <password>__
 - adds new service to list.txt.asc
 
-_phraseadd <service> <login>_
+__phraseadd <service> <login>__
 - adds new service with freshly generated password to list.txt.asc
 
-_phrase <service>_
+__phrase <service>__
 - returns login and password for this service
