@@ -1,5 +1,4 @@
-
-# List of Commands:
+## List of Commands:
 
 __phrase listall__
 - lists all known services
